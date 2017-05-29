@@ -1,0 +1,21 @@
+body{
+	background: #808080;
+	font-family: arial;
+}
+
+#top{
+	background: #808080;
+	height: 150px;
+}
+
+#main{
+	background: #808080;
+	height: 200px;
+	text-align:center;
+	padding-top: 50px;
+	font-family:arial;
+	font-size: 350%;
+	color: white;
+	font-weight:bold;
+	text-shadow: 2px 2px 4px #000000;
+}
